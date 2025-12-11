@@ -1,3 +1,3 @@
 # deposure
 
-A hero demo.
+A hero demo for Deposure.
